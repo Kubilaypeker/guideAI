@@ -1,6 +1,6 @@
 # guideme
 
-A new Flutter project.
+Guide me is an AI chat app powered by OpenAI ChatGPT API. 
 
 ## Getting Started
 
